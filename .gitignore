@@ -7,3 +7,4 @@ venv/
 .DS_Store
 set50_network.html
 lib/
+gen_graph.py
